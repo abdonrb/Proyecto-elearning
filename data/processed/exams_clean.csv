@@ -71,7 +71,6 @@
 69,male,associate's degree,standard,none,80,70,73
 70,male,some high school,standard,completed,83,81,78
 71,female,some college,free/reduced,completed,64,82,80
-72,female,some high school,standard,none,23,33,33
 73,female,some high school,free/reduced,completed,41,58,59
 74,male,some college,standard,completed,61,49,52
 75,male,bachelor's degree,standard,none,63,46,46
@@ -227,7 +226,6 @@
 225,male,associate's degree,standard,none,47,48,49
 226,male,some college,standard,completed,96,92,88
 227,female,some high school,standard,none,48,60,57
-228,male,high school,free/reduced,none,20,25,15
 229,female,some high school,standard,none,70,75,76
 230,male,high school,free/reduced,completed,59,62,58
 231,female,associate's degree,free/reduced,none,80,80,83
@@ -375,7 +373,6 @@
 373,male,high school,standard,none,96,94,93
 374,female,high school,free/reduced,none,39,60,52
 375,male,some college,free/reduced,none,56,57,62
-376,male,high school,standard,none,31,27,19
 377,female,bachelor's degree,standard,completed,74,79,84
 378,male,bachelor's degree,standard,completed,100,100,100
 379,female,high school,standard,completed,68,75,73
@@ -479,7 +476,6 @@
 477,female,high school,standard,none,45,52,51
 478,female,some high school,standard,none,75,86,84
 479,female,associate's degree,standard,none,51,69,65
-480,female,high school,standard,none,21,30,26
 481,male,high school,free/reduced,none,54,53,47
 482,male,high school,standard,none,83,78,74
 483,male,associate's degree,free/reduced,none,74,79,65
@@ -491,7 +487,6 @@
 489,female,master's degree,standard,completed,62,68,75
 490,male,some high school,standard,none,63,57,59
 491,female,high school,standard,completed,50,72,70
-492,female,some high school,standard,none,25,33,32
 493,male,some high school,standard,none,73,67,64
 494,male,associate's degree,free/reduced,completed,57,58,54
 495,male,high school,standard,none,64,62,61
@@ -512,7 +507,6 @@
 510,male,some high school,free/reduced,completed,46,53,54
 511,male,associate's degree,free/reduced,none,72,80,75
 512,female,associate's degree,free/reduced,none,45,61,57
-513,female,associate's degree,free/reduced,none,28,32,28
 514,female,some high school,standard,none,83,92,93
 515,female,some college,standard,completed,86,89,89
 516,female,some high school,free/reduced,completed,64,75,81
@@ -585,7 +579,6 @@
 583,male,bachelor's degree,free/reduced,none,50,40,38
 584,female,high school,standard,none,61,69,69
 585,male,high school,standard,none,65,69,56
-586,female,high school,free/reduced,none,15,39,40
 587,male,some high school,free/reduced,none,64,56,52
 588,male,high school,standard,none,77,70,60
 589,female,some college,standard,completed,61,63,70
@@ -692,7 +685,6 @@
 690,male,some college,standard,none,74,63,65
 691,male,some high school,free/reduced,completed,64,62,55
 692,male,some college,standard,none,79,76,69
-693,female,high school,free/reduced,none,24,48,46
 694,male,associate's degree,free/reduced,completed,66,60,64
 695,female,some high school,standard,completed,69,86,87
 696,male,some high school,standard,none,65,58,57
@@ -761,7 +753,6 @@
 759,female,high school,standard,none,61,73,74
 760,female,some college,free/reduced,completed,64,81,87
 761,female,some college,standard,none,74,81,82
-762,male,high school,free/reduced,none,34,37,27
 763,female,high school,standard,none,54,62,62
 764,female,some college,standard,none,65,76,70
 765,male,some college,standard,none,81,86,78
@@ -981,7 +972,6 @@
 979,male,some high school,standard,none,83,84,78
 980,male,associate's degree,standard,none,76,74,67
 981,male,some high school,standard,completed,87,83,80
-982,male,some high school,standard,none,28,27,23
 983,male,some high school,standard,completed,76,78,79
 984,female,bachelor's degree,standard,none,86,87,90
 985,female,bachelor's degree,free/reduced,none,65,64,73
